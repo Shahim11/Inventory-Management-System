@@ -1,0 +1,25 @@
+
+		 Traitstore-Inventory
+	 Phone No. +8801712345678, Dhaka-1229
+===============================================
+ Customer Name: a
+ Phone No.: 12
+ Bill No. 10053923			Date: 10/04/2023
+===============================================
+ Product Name			Qty	Price
+=============================================== 
+        
+ Pixel 5			1	Tk.500.0
+===============================================
+ Bill Amount				Tk.500.0
+ Discount				Tk.25.0
+ Net Pay				Tk.475.0
+===============================================
+        
+ Note: Purchases of Defected Item Must be 
+ Exchanged by 72 Hour with Invoice. 
+                    (Condition Applicable)
+ 
+ Thank You for Shopping at Traitstore & Please 
+ Come again.
+        
